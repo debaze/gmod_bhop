@@ -15,7 +15,7 @@ See also the [tutorial series](https://www.youtube.com/playlist?list=PLudurQtb5N
 
 ### Flow Network
 
-1. Download the [Flow Network](https://github.com/matteokeole/gmod-bhop/raw/main/Flow%20Network.zip) folder
+1. Download the [Flow Network](https://github.com/debaze/gmod-bhop/raw/main/Flow%20Network.zip) folder
 1. Copy `Flow Network\Gamemodes\Flow Network - All gamemodes\Flow Network - Bunny Hop\Start Server.bat` to `SteamLibrary\steamcmd\steamapps\common\GarrysModDS`
 1. Replace `SteamLibrary\steamcmd\steamapps\common\GarrysModDS\garrysmod\cfg\server.cfg` by `Flow Network\Other\Config\server.cfg`
 1. Copy `Flow Network\Gamemodes\Flow Network - All gamemodes\Flow Network - Bunny Hop\Gamemode` to `SteamLibrary\steamcmd\steamapps\common\GarrysModDS\gamemodes\bhop`
